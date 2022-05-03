@@ -6,6 +6,14 @@ Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything work
 ![9a9b2de2-c7cf-47d0-99eb-9a9894bfc94a](https://user-images.githubusercontent.com/849044/82004641-49d07080-9618-11ea-9526-e21acc495a6c.jpg)
 ![Screen Shot 2020-11-29 at 8 43 00 PM](https://user-images.githubusercontent.com/849044/100569776-e8a27e80-3283-11eb-8871-eb973bb3fcd0.png)
 
+## Drivers (kexts)
+- https://github.com/acidanthera/AppleALC/releases
+- https://github.com/acidanthera/IntelMausi/releases
+- https://github.com/acidanthera/Lilu/releases
+- https://github.com/acidanthera/VirtualSMC/releases
+- https://github.com/acidanthera/WhateverGreen/releases
+
+
 ## System Specs
 
 | Part | Model Number
